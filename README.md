@@ -1,17 +1,36 @@
-# 🤖 Copiloto de IA: Solução de Comunicação Corporativa
+# Corporate Communication AI Copilot
 
-Vídeo Pitch: https://youtu.be/Zp0RC16ctE0
+A custom GPT-based AI agent that automates the drafting of corporate communication such as emails, announcements, and internal notices.
 
-## 📋 Sobre o Projeto
-Este projeto foi desenvolvido para a disciplina de Fundamentos de IA Generativa da UniFECAF. O objetivo é resolver a sobrecarga do RH e de setores de comunicação, automatizando a redação de mensagens do dia a dia.
+## Overview
 
-## 🛠️ Tecnologia Utilizada
-* **Plataforma:** OpenAI ChatGPT.
-* **Modelo:** GPT-4o / GPT-4 (LLM - Large Language Model).
-* **Técnica:** Engenharia de Prompt com Instruções de Sistema (System Prompt).
+HR and communication teams spend significant time writing repetitive day-to-day messages. This project automates that drafting process using a custom GPT agent, standardizing tone and messaging while reducing time spent on routine writing tasks.
 
-## 🚀 Como Funciona (Fluxo do Protótipo)
-A solução utiliza uma interface única no ChatGPT. O usuário fornece os tópicos, o tipo de canal e o tom desejado, e a IA processa essas variáveis instantaneamente para gerar um rascunho formatado.
+## Features
 
-## 🛡️ Ética e Segurança
-A ferramenta foi configurada para alertar o usuário sobre a necessidade de revisão humana e o respeito à LGPD, evitando o vazamento de dados sensíveis e mitigando vieses da IA.
+- Generates emails, announcements, and internal notices
+- Maintains consistent tone and standardized language across messages
+- Built using prompt engineering techniques to guide output quality
+
+## Tech Stack
+
+- **Model:** GPT-4o (ChatGPT paid plan)
+- **Interface:** Custom GPT (web-based)
+- **Core technique:** Prompt engineering
+
+## Demo
+
+🎥 *(https://youtu.be/Zp0RC16ctE0)*
+
+## Results
+
+Estimated to reduce drafting time by 5–10 minutes per task *(based on internal estimation, not formally measured)*.
+
+## Author
+
+**Adriel Ruda Henrique Ogawa Osorio**
+Artificial Intelligence and Digital Automation — Unifecaf / Faculdade de Tecnologia Rocketseat
+
+## License
+
+This project is licensed under the MIT License.
